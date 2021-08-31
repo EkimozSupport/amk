@@ -1,12 +1,12 @@
-<h1 align="centre">🎶 Sohbet Çılgınları Music Bot 🎶</h1>
+<h1 align="centre">🎶 Elly & Carl Music Bot 🎶</h1>
 
-Support Group = [@SohbetMuzikDestek](https://t.me/SohbetMuzikDestek)
+Support Group = [@Smailesi](https://t.me/Smailesi)
 
-More Serenity Bots = [@SohbetCilginlariBotlar](https://t.me/SohbetCilginlariBotlar)
+More Serenity Bots = [@UcretliBotlar](https://t.me/UcretliBotlar)
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cancinconntg/SohbetCilginlariMuzik)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/amk)
 
 STRING_NAME ;
 
